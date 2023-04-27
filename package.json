@@ -1,0 +1,22 @@
+{
+  "name": "jabka",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "Mavka JS compiler",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mavka"
+  ],
+  "author": "kohutd",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "astring": "^1.8.4",
+    "mavka-parser": "^0.10.24"
+  },
+  "devDependencies": {
+    "prettier": "2.8.7"
+  }
+}
